@@ -185,10 +185,13 @@ android解析XML总结（SAX、Pull、Dom三种方式）<br>
 http://www.cnblogs.com/JerryWang1991/archive/2012/02/24/2365507.html
 
 
+##Android 架构与设计模式
 
+一种在android中实现MVP模式的新思路<br>
+https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E5%9C%A8android%E4%B8%AD%E5%AE%9E%E7%8E%B0MVP%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%96%B0%E6%80%9D%E8%B7%AF
 
-
-
+一种更清晰的Android架构<br>
+https://github.com/bboyfeiyu/android-tech-frontier/tree/master/androidweekly/%E4%B8%80%E7%A7%8D%E6%9B%B4%E6%B8%85%E6%99%B0%E7%9A%84Android%E6%9E%B6%E6%9E%84
 
 ##其他
 
