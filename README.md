@@ -22,8 +22,6 @@ http://blog.csdn.net/lmj623565791/article/details/38377229
 Android消息循环分析<br>
 http://blog.isming.me/blog/2014/04/02/android-message-loop-analyze/
 
-android AsyncTask介绍<br>
-http://findbug.cn/archives/270
 
 
 ##Android Activity
@@ -99,7 +97,7 @@ Android Volley 完全解析系列<br>
 http://blog.csdn.net/guolin_blog/article/details/17482095
 
 Android中网络操作使用总结<br>
-http://blog.isming.me/blog/2014/05/11/use-network-in-android/
+http://blog.isming.me/2014/05/11/use-network-in-android/
 
 Android中View绘制流程以及invalidate()等相关方法分析<br>
 http://blog.csdn.net/qinjuning/article/details/7110211
