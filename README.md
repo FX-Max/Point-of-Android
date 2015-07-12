@@ -66,6 +66,8 @@ Main
 
 * [Android的进程与线程](http://android.jobbole.com/80640/)
 
+* [Andorid Binder进程间通信总结](http://blog.csdn.net/jltxgcy/article/details/30993741)
+
 
 
 ##Android UI 及布局
@@ -144,6 +146,8 @@ Main
 * [Android的虚拟机Dalvik 介绍](http://blog.csdn.net/Android_Tutor/article/details/5334228)
 
 * [ANDROID内存优化(大汇总——全)](http://blog.csdn.net/a396901990/article/details/38904543)
+
+* [Android系统启动过程](http://blog.csdn.net/jltxgcy/article/details/46669147)
 
 
 
