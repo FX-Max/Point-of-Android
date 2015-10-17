@@ -176,6 +176,8 @@ Main
 * [从 MVC 框架看 MVC 架构的设计](http://kb.cnblogs.com/page/502983/)
 
 * [Android四大基本组件介绍与生命周期](http://www.cnblogs.com/bravestarrhu/archive/2012/05/02/2479461.html)
+* [Android6.0 新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083?from=timeline&hmsr=toutiao.io&isappinstalled=0&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 Epilogue
 =
