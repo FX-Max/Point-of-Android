@@ -19,6 +19,7 @@ Main
 * [Android 异步消息处理机制 让你深入理解 Looper、Handler、Message三者关系](http://blog.csdn.net/lmj623565791/article/details/38377229)
 
 * [Android消息循环分析](http://blog.isming.me/2014/04/02/android-message-loop-analyze/)
+* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083?from=timeline&hmsr=toutiao.io&isappinstalled=0&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 
