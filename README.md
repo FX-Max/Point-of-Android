@@ -32,8 +32,6 @@ Main
 
 * [Android Activity 的四种启动模式](http://blog.csdn.net/android_tutor/article/details/6310015)
 
-* [管理Activity的生命周期](http://blog.isming.me/2014/03/25/manage-activityde-lifecycle/)
-
 * [Android入门：Activity四种启动模式](http://www.cnblogs.com/meizixiong/archive/2013/07/03/3170591.html)
 
 
@@ -93,8 +91,6 @@ Main
 * [Android中网络操作使用总结](http://blog.isming.me/2014/05/11/use-network-in-android/)
 
 * [HTTP协议之状态码详解](http://v5browser.iteye.com/blog/1769789)
-
-* [Volley是否支持https](http://www.jiangwenrou.com/volley%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81https.html)
 
 
 ## OOM 问题
