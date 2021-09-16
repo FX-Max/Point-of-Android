@@ -34,7 +34,9 @@ Main
 
 * [Android入门：Activity四种启动模式](http://www.cnblogs.com/meizixiong/archive/2013/07/03/3170591.html)
 
+* [Activity启动模式(一)之 lauchMode](http://wangkuiwu.github.io/2014/06/26/LaunchMode/)
 
+* [Activity启动模式(二)之 Intent的Flag属性](http://wangkuiwu.github.io/2014/06/26/IntentFlag/)
 
 ## Android Intent
 
